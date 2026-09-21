@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330" role="img" aria-labelledby="title desc">
+  <title id="title">Conhecimentos e capacidades</title>
+  <desc id="desc">Conhecimentos de David em desenvolvimento web, programação e dados.</desc>
+  <rect x="5" y="5" width="810" height="320" rx="26" fill="#16001f" stroke="#7b2cbf" stroke-width="5"/>
+  <text x="40" y="62" fill="#ffffff" font-family="Arial, sans-serif" font-size="26" font-weight="700">Desenvolvimento web</text>
+  <g fill="#eadcff" font-family="Arial, sans-serif" font-size="19">
+    <text x="40" y="108">HTML, CSS e JavaScript</text><text x="40" y="143">Layouts responsivos</text>
+    <text x="40" y="178">Desenvolvimento front-end</text><text x="40" y="213">UI/UX e acessibilidade</text>
+  </g>
+  <line x1="410" y1="45" x2="410" y2="280" stroke="#5a189a" stroke-width="2"/>
+  <text x="450" y="62" fill="#ffffff" font-family="Arial, sans-serif" font-size="26" font-weight="700">Programação e dados</text>
+  <g fill="#eadcff" font-family="Arial, sans-serif" font-size="19">
+    <text x="450" y="108">C em aprendizado</text><text x="450" y="143">Conhecimento razoável em C++</text>
+    <text x="450" y="178">SQL e orientação a objetos</text><text x="450" y="213">Git e GitHub em evolução</text>
+    <text x="450" y="248">Uso variado de ferramentas de IA</text>
+  </g>
+</svg>
