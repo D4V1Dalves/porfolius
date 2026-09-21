@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330" role="img" aria-labelledby="title desc">
+  <title id="title">Projeto IrrigaShop</title>
+  <desc id="desc">Trabalho de David no e-commerce IrrigaShop.</desc>
+  <rect x="5" y="5" width="810" height="320" rx="22" fill="none" stroke="#7b2cbf" stroke-width="2"/>
+  <text x="40" y="65" fill="#9d4edd" font-family="Arial, sans-serif" font-size="36" font-weight="700">IrrigaShop</text>
+  <text x="40" y="101" fill="#9d4edd" font-family="Arial, sans-serif" font-size="22">Shopify · Projeto individual</text>
+  <g fill="#9d4edd" font-family="Arial, sans-serif" font-size="23">
+    <text x="40" y="151">E-commerce desenvolvido individualmente.</text>
+    <text x="40" y="192">Responsabilidades:</text><text x="62" y="227">• desenvolvimento front-end e back-end</text>
+    <text x="62" y="260">• estratégias e implementações de SEO e GEO</text>
+  </g>
+</svg>

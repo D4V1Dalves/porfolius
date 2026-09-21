@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img" aria-labelledby="title desc">
+  <title id="title">Meu perfil</title>
+  <desc id="desc">Características profissionais de David.</desc>
+  <rect x="5" y="5" width="810" height="290" rx="22" fill="none" stroke="#7b2cbf" stroke-width="2"/>
+  <rect x="34" y="35" width="9" height="44" rx="4" fill="#7b2cbf"/>
+  <text x="60" y="68" fill="#9d4edd" font-family="Arial, sans-serif" font-size="34" font-weight="700">Meu perfil</text>
+  <g fill="#9d4edd" font-family="Arial, sans-serif" font-size="23">
+    <text x="40" y="120">Aprendo com rapidez, tenho sede de conhecimento e</text>
+    <text x="40" y="153">responsabilidade com os projetos que assumo.</text>
+    <text x="40" y="200">Utilizo diferentes ferramentas de inteligência artificial</text>
+    <text x="40" y="233">como apoio à pesquisa, desenvolvimento e produtividade.</text>
+  </g>
+</svg>
